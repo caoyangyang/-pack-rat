@@ -1,2 +1,2 @@
-# document zh
+# zh
 [kafka](https://kafka.apachecn.org/)
