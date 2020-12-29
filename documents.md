@@ -1,2 +1,3 @@
 # zh
-[kafka](https://kafka.apachecn.org/)
+[kafka apachecn](https://kafka.apachecn.org/)
+[kafka orchome](https://www.orchome.com/kafka/index)
